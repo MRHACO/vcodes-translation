@@ -1,0 +1,5 @@
+{
+    "Profile_Text_NotLoggedInYet": "Not logged in",
+    "Profile_Text_UsersBots": "{{user}}'s Bots",
+    "Profile_Text_NotBotsForThisUser": "Seems like {{user}} has no bots."
+}
