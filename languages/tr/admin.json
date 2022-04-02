@@ -6,16 +6,13 @@
   "Header_Item_certificate": "Sertifikalı Botlar",
   "Header_Item_approved": "Onaylanmış Botlar",
   "Header_Item_partners": "Ortaklar",
-
   "Title_ManagePartners": "Partner Yöneticisi",
   "Title_ApprovedBots": "Kabul Edilmiş Botlar",
   "Title_CertifiedBots": "Sertifikalı Botlar",
   "Title_LastApprovedBots": "Son Kabul Edilmiş Botlar",
-
-  "Text_AddParner": "Yeni Partner",
+  "Text_AddPartner": "Add Partner",
   "Text_EnterBotID": "Bir Bot ID girin",
   "Text_ChangeBot": "Bot Değiştir",
-
   "Permissions_Text_ChangeUser": "Kullanıcı Değiştir",
   "Permissions_Text_DeleteData": "Data'yı Temizle",
   "Permissions_Text_RemovePermissions": "Yetki Kaldırma",
@@ -23,21 +20,17 @@
   "Permissions_Text_TypeConfirm": "Kullanıcının verilerini silmek için <b>CONFIRM</b> yaz.",
   "Permissions_Text_EnterUserID": "Kullanıcının ID'sini girin",
   "Permissions_Text_SelectPermission": "Bir yetki seçin",
-
   "Partners_Text_AboutToDeleteThisPartner": "Bu partneri silmek üzeresiniz:",
-
   "Bots_Text_AboutToDeclineThisBot": "Bu botu silmek üzeresiniz:",
   "Bots_Text_WhyDidYouDeclineThisBot": "Neden bu botu reddetiniz?",
   "Bots_Text_AboutToDecertifyThisBot": "Bu botun sertifikasını almak üzeresiniz:",
   "Bots_Text_WhyDidYouDecertifyThisBot": "Neden bu botun sertifikasını aldınız?",
-
   "Table_Text_Overview": "Ön Bakış",
   "Table_Text_Description": "Açıklama",
   "Table_Text_ID": "ID",
   "Table_Text_Links": "Linkler",
   "Table_Text_Servers": "Sunucular",
   "Table_Text_Operation": "İşlem",
-
   "Table_Operation_toTestServer": "Test Sunucusu'na",
   "Table_Operation_toMainServer": "vCodes Sunucusu'na",
   "Table_Operation_Certify": "Sertifika Ver",

@@ -1,5 +1,5 @@
 {
-    "Profile_Text_NotLoggedInYet":"Nog nie aangemeld nie",
-    "Profile_Text_UsersBots":"{{user}}'s Bots",
-    "Profile_Text_NotBotsForThisUser":"Lyk asof {{user}} geen bots het nie."
+    "Profile_Text_NotLoggedInYet": "Nog nie aangemeld nie",
+    "Profile_Text_UsersBots": "{{user}}'s Bots",
+    "Profile_Text_NotBotsForThisUser": "Lyk asof {{user}} geen bots het nie."
 }

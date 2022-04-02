@@ -2,8 +2,8 @@
   "Add": "Добавь",
   "Remove": "Удалять",
   "Delete": "Удалить",
-  "Decline": "Снижение",
   "Cancel": "Отменить",
+  "Decline": "Снижение",
   "Edit": "Редактировать",
   "AddBot": "Добавить Бота",
   "AdminPanel": "Панель администратора",
@@ -37,10 +37,8 @@
   "Save": "Сохранить",
   "CoOwners": "Совладельцы",
   "Certificate": "Сертификат",
-
   "Text_ChangeBot": "Сертификат",
   "Text_ChangeUser": "Сменить пользователя",
-
   "Home": "Домой",
   "Dashboard": "Приборная панель",
   "Explore": "Исследовать",
@@ -52,35 +50,27 @@
   "Invites": "Даветлер",
   "Servers": "Серверы",
   "Visitors": "Посетители",
-
   "Bot_Verified": "Проверенный Бот",
-
   "Bots_DetailedDescription": "Подробное Описание",
-
   "Role_Moderator": "Модератор",
   "Role_Administrator": "Администратор",
-
   "OperationSuccessful_Title": "Да!!",
   "OperationUnSuccessful_Title": "Упс!",
   "OperationUnSuccessful_Description": "Что-то пошло не так...",
-
   "Header_Item_Login": "Авторизоваться",
   "Header_Item_Profile": "Профиль",
   "Header_Item_LightTheme": "Светлая Тема",
   "Header_Item_Logout": "Выход из системы",
   "Header_Item_Colors": "Цвета",
   "Header_Item_Languages": "Языки",
-
   "Footer_Description1": "Добавляйте и расширяйте свой Дискорд",
   "Footer_Description2": "боты для охвата большего числа аудиторий.",
   "Footer_Copyright": "Все права защищены.",
   "Footer_Sponsor": "Мы черпаем нашу силу из ❤️ {sponsorName}",
   "Footer_OtherProjects": "Другие проекты",
-
   "DidYouKnow": "Ты Знал?",
   "vCodeswas": "VCodes изначально был сервером обмена кодами.",
   "MustLoggedIn": "Для этого действия вы должны войти в систему.",
-
   "SortType_votes": "Голоса",
   "SortType_servers": "Количество серверов",
   "SortType_latest": "Самый последний",

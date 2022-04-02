@@ -1,5 +1,5 @@
 {
-    "Profile_Text_NotLoggedInYet":"Henüz hiç giriş yapmadı",
-    "Profile_Text_UsersBots":"{{user}} adlı kullanıcının botları.",
-    "Profile_Text_NotBotsForThisUser":"Görünüşe göre {{user}}'ın hiç botu yok."
+    "Profile_Text_NotLoggedInYet": "Henüz hiç giriş yapmadı",
+    "Profile_Text_UsersBots": "{{user}} adlı kullanıcının botları.",
+    "Profile_Text_NotBotsForThisUser": "Görünüşe göre {{user}}'ın hiç botu yok."
 }

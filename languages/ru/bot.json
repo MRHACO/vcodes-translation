@@ -11,12 +11,10 @@
   "Widgets_Text_CopyToClipboard": "Копировать",
   "Widgets_Text_CopiedToClipboard": "Скопировано в буфер обмена",
   "Widgets_Text_WidgetCopiedToClipboard": "{{id}}виджет скопирован в буфер обмена.",
-
   "Ratings_Title": "Рейтинги и обзор",
   "Ratings_Text_Reviews": "Обзоры",
   "Ratings_Text_PostReview": "Отзыв после публикации",
   "Ratings_Text_MustLoggedInToLike": "Вы должны войти в систему, чтобы поставить лайк этому обзору",
-
   "View_Title_Details": "Подробности",
   "View_Title_Authors": "Авторы",
   "View_Text_DailyVotes": "Ежедневные голосования",
@@ -24,7 +22,6 @@
   "View_Text_SyncData": "Синхронизация Данных",
   "View_Text_SyncRoles": "Синхронизация ролей",
   "View_Text_Report": "Отчет",
-
   "Add_Text_AddYourBot": "Добавьте Своего Бота в Discord!",
   "Add_Text_AddYourBotDesc": "Добавьте своего бота discord в систему за 5 шагов.",
   "Add_Text_EnterYourBotID": "Введите свой идентификатор бота",
@@ -44,13 +41,11 @@
   "Add_Text_EnterYourShortDescription": "Составьте краткое описание, которое лучше всего подходит вашему боту.",
   "Add_Text_EnterYourLongDescription": "Введите подробное описание вашего бота.",
   "Add_Text_Success": "Ваш бот успешно добавлен в систему.",
-
   "Add_Steps_FindBot": "Найти Бота",
   "Add_Steps_Overview": "Обзор",
   "Add_Steps_Connections": "Связи",
   "Add_Steps_Descriptions": "Подробная Информация",
   "Add_Steps_Finished": "Закончено!",
-
   "Add_Error_InvalidPrefix": "Вы должны быть a введите префикс.",
   "Add_Error_NoBotTags": "Вы должны быть выбранным ботом тегов.",
   "Add_Error_NoInviteLink": "Вы должны ввести URL-адрес приглашения.",
@@ -64,7 +59,6 @@
   "Add_Error_CoownerCantAddYourself": "Вы не можете добавить себя к другим совладельцам.",
   "Add_Error_CoownerUnknownUser": "Вы не можете добавить себя к другим совладельцам.",
   "Add_Error_CoownerMax3": "Вы можете добавить до 3 совладельцев.",
-
   "Bots_ListingSettingsDesc": "Вы можете задать параметры листинга.",
   "Bots_Sort": "Сортировать",
   "Bots_SortDescription": "Это формат сортировки ботов.",

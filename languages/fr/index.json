@@ -1,10 +1,10 @@
 {
-    "Description":"Veux tu améliorer et faire grandir ton bot Discord? vCodes est là pour toi!",
-    "Search_Placeholder":"Explorer les bots par nom et description",
-    "Title_TrendingBots":"Bots Tendance",
-    "Title_LastAddedBots":"Bots Ajoutés Récemment",
-    "Title_CertifiedBots":"Bots Certifiés",
-    "Description_TrendingBots":"Bots Les Plus Populaires Ce Mois-ci.",
-    "Description_LastAddedBots":"Voir rapidement les bots récemment approuvés par ordre de votes.",
-    "Description_CertifiedBots":"Voir rapidement les bots certifiés par ordre de votes."
+    "Description": "Veux tu améliorer et faire grandir ton bot Discord? vCodes est là pour toi!",
+    "Search_Placeholder": "Explorer les bots par nom et description",
+    "Title_TrendingBots": "Bots Tendance",
+    "Title_LastAddedBots": "Bots Ajoutés Récemment",
+    "Title_CertifiedBots": "Bots Certifiés",
+    "Description_TrendingBots": "Bots Les Plus Populaires Ce Mois-ci.",
+    "Description_LastAddedBots": "Voir rapidement les bots récemment approuvés par ordre de votes.",
+    "Description_CertifiedBots": "Voir rapidement les bots certifiés par ordre de votes."
 }

@@ -1,5 +1,5 @@
 {
-    "Profile_Text_NotLoggedInYet":"Non connecté en ce moment",
-    "Profile_Text_UsersBots":"Bots de {{user}}",
-    "Profile_Text_NotBotsForThisUser":"Il semble que {{user}} n'a pas de bots."
+    "Profile_Text_NotLoggedInYet": "Non connecté en ce moment",
+    "Profile_Text_UsersBots": "Bots de {{user}}",
+    "Profile_Text_NotBotsForThisUser": "Il semble que {{user}} n'a pas de bots."
 }

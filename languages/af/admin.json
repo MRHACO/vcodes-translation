@@ -6,16 +6,13 @@
   "Header_Item_certificate": "Sertifikaat Bots",
   "Header_Item_approved": "Goedgekeurde Bots",
   "Header_Item_partners": "Vennote",
-
   "Title_ManagePartners": "Bestuur Vennote",
   "Title_ApprovedBots": "Goedgekeurde Bots",
   "Title_CertifiedBots": "Gesertifiseerde Bots",
   "Title_LastApprovedBots": "Laas goedgekeur bots",
-
   "Text_AddPartner": "Voeg vennoot by",
   "Text_EnterBotID": "Tik Bot-ID in",
   "Text_ChangeBot": "Verander Bot",
-
   "Permissions_Text_ChangeUser": "Verander gebruiker",
   "Permissions_Text_DeleteData": "Skrap data",
   "Permissions_Text_RemovePermissions": "Verwyder toestemmings",
@@ -23,21 +20,17 @@
   "Permissions_Text_TypeConfirm": "Tik <b>CONFIRM</b> om die verwydering van gebruikersdata te bevestig.",
   "Permissions_Text_EnterUserID": "Voer gebruiker-ID in",
   "Permissions_Text_SelectPermission": "Kies 'n toestemming.",
-
   "Partners_Text_AboutToDeleteThisPartner": "Jy is op die punt om hierdie vennoot te skrap:",
-
   "Bots_Text_AboutToDeclineThisBot": "Jy is op die punt om hierdie vennoot te skrap:",
   "Bots_Text_WhyDidYouDeclineThisBot": "Hoekom het jy hierdie bot van die hand gewys?",
   "Bots_Text_AboutToDecertifyThisBot": "Jy is op die punt om hierdie vennoot te de-sertifiseer:",
   "Bots_Text_WhyDidYouDecertifyThisBot": "Hoekom het jy hierdie bot gede-certified?",
-
   "Table_Text_Overview": "Oorsig",
   "Table_Text_Description": "Beskrywing",
   "Table_Text_ID": "ID",
   "Table_Text_Links": "Skakels",
   "Table_Text_Servers": "Bedieners",
   "Table_Text_Operation": "Bewerking",
-
   "Table_Operation_toTestServer": "om bediener te toets",
   "Table_Operation_toMainServer": "na vCodes Server",
   "Table_Operation_Certify": "Sertifiseer",

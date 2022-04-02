@@ -1,5 +1,5 @@
 {
-    "Profile_Text_NotLoggedInYet":"Еще не вошел в систему",
-    "Profile_Text_UsersBots":"{{user}} Боты",
-    "Profile_Text_NotBotsForThisUser":"Кажется любить {{user}} не имеет ботов."
+    "Profile_Text_NotLoggedInYet": "Еще не вошел в систему",
+    "Profile_Text_UsersBots": "{{user}} Боты",
+    "Profile_Text_NotBotsForThisUser": "Кажется любить {{user}} не имеет ботов."
 }
