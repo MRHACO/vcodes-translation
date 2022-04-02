@@ -11,12 +11,10 @@
   "Widgets_Text_CopyToClipboard": "Kopieer",
   "Widgets_Text_CopiedToClipboard": "Gekopieer na knipbord",
   "Widgets_Text_WidgetCopiedToClipboard": "{{id}} Widget gekopieer na knipbord.",
-
   "Ratings_Title": "Graderings en resensie",
   "Ratings_Text_Reviews": "Resensies",
   "Ratings_Text_PostReview": "Plaas resensie",
   "Ratings_Text_MustLoggedInToLike": "Jy moet aangemeld wees om van hierdie resensie te hou.",
-
   "View_Title_Details": "Besonderhede",
   "View_Title_Authors": "Skrywers",
   "View_Text_DailyVotes": "Daaglikse stemme",
@@ -24,7 +22,6 @@
   "View_Text_SyncData": "Sinkroniseer data",
   "View_Text_SyncRoles": "Sinkroniseer rolle",
   "View_Text_Report": "Rapporteer",
-
   "Add_Text_AddYourBot": "Voeg jou Discord Bot by!",
   "Add_Text_AddYourBotDesc": "Voeg jou discord bot by die stelsel in 5 stappe.",
   "Add_Text_EnterYourBotID": "Tik jou Bot-ID in",
@@ -44,13 +41,11 @@
   "Add_Text_EnterYourShortDescription": "Maak die kort beskrywing wat die beste by jou bot pas.",
   "Add_Text_EnterYourLongDescription": "Voer jou bot gedetailleerde beskrywing in.",
   "Add_Text_Success": "Jou bot het suksesvol by die stelsel gevoeg.",
-
   "Add_Steps_FindBot": "Vind Bot",
   "Add_Steps_Overview": "Oorsig",
   "Add_Steps_Connections": "Verbindings",
   "Add_Steps_Descriptions": "Gedetailleerde inligting",
   "Add_Steps_Finished": "Klaar!",
-
   "Add_Error_InvalidPrefix": "Jy moet 'n voorvoegsel in tik.",
   "Add_Error_NoBotTags": "Jy moet 'n geselekteerde bot etikette wees.",
   "Add_Error_NoInviteLink": "Jy moet 'n uitnodiging-url invoer.",
@@ -63,7 +58,7 @@
   "Add_Error_CharactersLongDescription": "Jou beskrywing te kort! Jy moet die minimum 200 karakters skryf..",
   "Add_Error_CoownerCantAddYourself": "Jy kan nie jouself by ander MEDE-eienaars voeg nie.",
   "Add_Error_CoownerUnknownUser": "U kan tot 3 MEDE-eienaars byvoeg.",
-
+  "Add_Error_CoownerMax3": "You can add up to 3 CO-Owners.",
   "Bots_ListingSettingsDesc": "Jy kan lysinstellings instel.",
   "Bots_Sort": "Rangskik",
   "Bots_SortDescription": "Dit is die sorteringsformaat van bots.",
