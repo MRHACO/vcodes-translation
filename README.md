@@ -1,4 +1,5 @@
 # vCodes | Translation
+[![Crowdin](https://badges.crowdin.net/vcodes/localized.svg)](https://crowdin.com/project/vcodes)
 
 ## Want to translate?
 You can translate by translating the language folder in the `/languages` file to the language you'd like to and send it to us as a pull request. When you are done with your translation, we will going to check and when we find it appropriate and then, we'll ask you for your discord id, and your role will be given on the main server. Your language translation will be added after an a hour, along with your discord id.
