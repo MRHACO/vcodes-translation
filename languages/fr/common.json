@@ -37,10 +37,8 @@
   "Save": "Sauvegarder",
   "CoOwners": "Co-Fondateurs",
   "Certificate": "Certifié",
-
   "Text_ChangeBot": "Changer Le Bot",
   "Text_ChangeUser": "Changer L'utilisateur",
-
   "Home": "Accueil",
   "Dashboard": "Panel",
   "Explore": "Explorer",
@@ -52,35 +50,27 @@
   "Invites": "Invitations",
   "Servers": "Communautés",
   "Visitors": "Visiteurs",
-
   "Bot_Verified": "Bot Vérifié",
-
   "Bots_DetailedDescription": "Descrition Détaillée",
-
   "Role_Moderator": "Moderateur",
   "Role_Administrator": "Administrateur",
-
   "OperationSuccessful_Title": "Yay!",
   "OperationUnSuccessful_Title": "Oups!",
   "OperationUnSuccessful_Description": "Un problème est survenu...",
-
   "Header_Item_Login": "Se Connecter",
   "Header_Item_Profile": "Profile",
   "Header_Item_LightTheme": "Thème Clair",
   "Header_Item_Logout": "Se Déconnecter",
   "Header_Item_Colors": "Couleurs",
   "Header_Item_Languages": "Languages",
-
   "Footer_Description1": "Ajoute et fait grossir tes",
   "Footer_Description2": "bots Discord pour atteindre une plus grande audiance.",
   "Footer_Copyright": "Tous droits réservés.",
   "Footer_Sponsor": "Nous sommes plus fort grâce à ❤️ {sponsorName}",
   "Footer_OtherProjects": "Autres Projets",
-
   "DidYouKnow": "Savais tu?",
   "vCodeswas": "vCodes était originalement un endroit pour partager du code.",
   "MustLoggedIn": "Tu dois être connecté pour faire ceci.",
-
   "SortType_votes": "Votes",
   "SortType_servers": "ServerCount",
   "SortType_latest": "Dernier",
