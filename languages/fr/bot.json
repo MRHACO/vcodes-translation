@@ -11,12 +11,10 @@
   "Widgets_Text_CopyToClipboard": "Copier",
   "Widgets_Text_CopiedToClipboard": "Copié dans le presse-papier",
   "Widgets_Text_WidgetCopiedToClipboard": "Le widget {{id}} a été copié dans le presse-papier.",
-
   "Ratings_Title": "Évaluations & Commentaires",
   "Ratings_Text_Reviews": "Commentaires",
   "Ratings_Text_PostReview": "Publier Le Commentaire",
   "Ratings_Text_MustLoggedInToLike": "Tu dois être connecté pour liker ce commentaire",
-
   "View_Title_Details": "Détails",
   "View_Title_Authors": "Auteurs",
   "View_Text_DailyVotes": "Votes Journaliers",
@@ -24,7 +22,6 @@
   "View_Text_SyncData": "Synchroniser les données",
   "View_Text_SyncRoles": "Synchroniser les rôles",
   "View_Text_Report": "Signaler",
-
   "Add_Text_AddYourBot": "Ajoute Ton Bot Discord!",
   "Add_Text_AddYourBotDesc": "Ajoute ton bot Discord au système en 5 étapes.",
   "Add_Text_EnterYourBotID": "Entre l'ID de ton bot",
@@ -44,13 +41,11 @@
   "Add_Text_EnterYourShortDescription": "Crée une description courte qui correspond le plus possible à ton bot.",
   "Add_Text_EnterYourLongDescription": "Ajoute une description détaillée de ton bot.",
   "Add_Text_Success": "Ton bot a été ajouté avec succès au système.",
-
   "Add_Steps_FindBot": "Trouver Un Bot",
   "Add_Steps_Overview": "Vue D'ensemble",
   "Add_Steps_Connections": "Liens",
   "Add_Steps_Descriptions": "Informations Détaillées",
   "Add_Steps_Finished": "C'est fini!",
-
   "Add_Error_InvalidPrefix": "Tu dois entrer un préfix.",
   "Add_Error_NoBotTags": "Tu dois sélectioner des tags.",
   "Add_Error_NoInviteLink": "Tu dois entrer un lien d'invitation valide.",
@@ -64,7 +59,6 @@
   "Add_Error_CoownerCantAddYourself": "Tu ne peux pas t'ajouter toi même comme co-fondateur.",
   "Add_Error_CoownerUnknownUser": "Le co-fondateur inscrit n'est pas valide.",
   "Add_Error_CoownerMax3": "Tu peux ajouter au maximum 3 co-fondateurs.",
-
   "Bots_ListingSettingsDesc": "Tu peux changer les paramètres référencement.",
   "Bots_Sort": "Filtrer",
   "Bots_SortDescription": "Ceci est le format de référencement des bots.",
