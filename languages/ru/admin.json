@@ -6,16 +6,13 @@
   "Header_Item_certificate": "Сертификаты Ботов",
   "Header_Item_approved": "Одобренные Боты",
   "Header_Item_partners": "Партнеры",
-
   "Title_ManagePartners": "Управлять Партнерами",
   "Title_ApprovedBots": "Одобренные Боты",
   "Title_CertifiedBots": "Сертифицированные Боты",
   "Title_LastApprovedBots": "Последние Одобренные Боты",
-
   "Text_AddPartner": "Добавить Партнера",
   "Text_EnterBotID": "Введите идентификатор Бота",
   "Text_ChangeBot": "Сменить Бота",
-
   "Permissions_Text_ChangeUser": "Сменить пользователя",
   "Permissions_Text_DeleteData": "Удаление Данных",
   "Permissions_Text_RemovePermissions": "Удалить разрешения",
@@ -23,21 +20,17 @@
   "Permissions_Text_TypeConfirm": "Тип <b>подтверждать</b> для подтверждения удаления пользовательских данных.",
   "Permissions_Text_EnterUserID": "Введите Идентификатор пользователя",
   "Permissions_Text_SelectPermission": "Выберите разрешения.",
-
   "Partners_Text_AboutToDeleteThisPartner": "Вы собираетесь удалить этого партнера:",
-
   "Bots_Text_AboutToDeclineThisBot": "Вы собираетесь удалить этого бота:",
   "Bots_Text_WhyDidYouDeclineThisBot": "Почему вы удалили этого бота?",
   "Bots_Text_AboutToDecertifyThisBot": "Вы собираетесь отменить сертификацию этого партнера:",
   "Bots_Text_WhyDidYouDecertifyThisBot": "Почему вы сняли сертификацию с этого бота?",
-
   "Table_Text_Overview": "Обзор",
   "Table_Text_Description": "Описание",
   "Table_Text_ID": "Идентификатор",
   "Table_Text_Links": "Связи",
   "Table_Text_Servers": "Серверы",
   "Table_Text_Operation": "Операция",
-
   "Table_Operation_toTestServer": "для тестирования Сервера",
   "Table_Operation_toMainServer": "на сервер VCodes",
   "Table_Operation_Certify": "Удостоверить",
