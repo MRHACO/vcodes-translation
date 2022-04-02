@@ -1,10 +1,10 @@
 {
-    "Description":"Вы хотите расширить и улучшить своего бота Discord? Здесь VCodes здесь для вас!",
-    "Search_Placeholder":"Исследуйте ботов по названию и описанию...",
-    "Title_TrendingBots":"Трендовые боты",
-    "Title_LastAddedBots":"Недавно Добавленные Боты",
-    "Title_CertifiedBots":"Сертифицированные Боты",
-    "Description_TrendingBots":"Самые популярные боты в этом месяце.",
-    "Description_LastAddedBots":"Быстро просматривайте недавно одобренных ботов по голосам.",
-    "Description_CertifiedBots":"Быстро просматривайте сертифицированных ботов по голосам."
+    "Description": "Вы хотите расширить и улучшить своего бота Discord? Здесь VCodes здесь для вас!",
+    "Search_Placeholder": "Исследуйте ботов по названию и описанию...",
+    "Title_TrendingBots": "Трендовые боты",
+    "Title_LastAddedBots": "Недавно Добавленные Боты",
+    "Title_CertifiedBots": "Сертифицированные Боты",
+    "Description_TrendingBots": "Самые популярные боты в этом месяце.",
+    "Description_LastAddedBots": "Быстро просматривайте недавно одобренных ботов по голосам.",
+    "Description_CertifiedBots": "Быстро просматривайте сертифицированных ботов по голосам."
 }
