@@ -3,6 +3,7 @@
   "Remove": "Verwyder",
   "Delete": "Skrap",
   "Cancel": "Kanselleer",
+  "Decline": "Decline",
   "Edit": "Redigeer",
   "AddBot": "Voeg Bot",
   "AdminPanel": "Admin Paneel",
@@ -36,10 +37,8 @@
   "Save": "Stoor",
   "CoOwners": "Mede-eienaars",
   "Certificate": "Sertifikaat",
-
   "Text_ChangeBot": "Verander Bot",
   "Text_ChangeUser": "Verander gebruiker",
-
   "Home": "Huis",
   "Dashboard": "Paneelbord",
   "Explore": "Verken",
@@ -51,35 +50,27 @@
   "Invites": "Nooi",
   "Servers": "Bedieners",
   "Visitors": "Besoekers",
-
   "Bot_Verified": "Geverifieer Bot",
-
   "Bots_DetailedDescription": "Gedetailleerde beskrywing",
-
   "Role_Moderator": "Moderering",
   "Role_Administrator": "Administrateur",
-
   "OperationSuccessful_Title": "Ja!",
   "OperationUnSuccessful_Title": "Oops!",
   "OperationUnSuccessful_Description": "Iets het verkeerd gegaan...",
-
   "Header_Item_Login": "Aanteken",
   "Header_Item_Profile": "Profiel",
   "Header_Item_LightTheme": "Ligte tema",
   "Header_Item_Logout": "Teken uit",
   "Header_Item_Colors": "Kleure",
   "Header_Item_Languages": "Tale",
-
   "Footer_Description1": "Voeg by en brei jou discord uit",
   "Footer_Description2": "bots om meer gehore te bereik.",
   "Footer_Copyright": "Alle regte voorbehou.",
   "Footer_Sponsor": "Ons is krag van ❤️ {sponsorName}",
   "Footer_OtherProjects": "Ander Projekte",
-
   "DidYouKnow": "Het jy geweet?",
   "vCodeswas": "vCodes was oorspronklik 'n kodedelingsbediener.",
   "MustLoggedIn": "Jy moet aangemeld wees vir hierdie aksie.",
-
   "SortType_votes": "Stemme",
   "SortType_servers": "Bedienertelling",
   "SortType_latest": "Nuutste",
