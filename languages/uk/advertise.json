@@ -1,0 +1,13 @@
+{
+    "title": "Manage Advertisement",
+    "description": "Select your ad slot to continue.",
+    "editing": "Editing Slot:",
+    "form_Name": "Name",
+    "form_Icon": "Icon",
+    "form_Description": "Description",
+    "form_Type": "Type",
+    "form_Link": "Link",
+    "form_Button Text": "Button Text",
+    "form_botId": "Bot ID",
+    "returnSelection": "Return Selection"
+}
