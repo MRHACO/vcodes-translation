@@ -37,10 +37,8 @@
   "Save": "Save",
   "CoOwners": "Co-Owners",
   "Certificate": "Certificate",
-
   "Text_ChangeBot": "Change Bot",
   "Text_ChangeUser": "Change User",
-
   "Home": "Home",
   "Dashboard": "Dashboard",
   "Explore": "Explore",
@@ -52,35 +50,27 @@
   "Invites": "Invites",
   "Servers": "Servers",
   "Visitors": "Visitors",
-
   "Bot_Verified": "Verified Bot",
-
   "Bots_DetailedDescription": "Detailed Description",
-
   "Role_Moderator": "Moderator",
   "Role_Administrator": "Administrator",
-
   "OperationSuccessful_Title": "Yey!",
   "OperationUnSuccessful_Title": "Oops!",
   "OperationUnSuccessful_Description": "Something went wrong...",
-
   "Header_Item_Login": "Login",
   "Header_Item_Profile": "Profile",
   "Header_Item_LightTheme": "Light Theme",
   "Header_Item_Logout": "Logout",
   "Header_Item_Colors": "Colors",
   "Header_Item_Languages": "Languages",
-
   "Footer_Description1": "Add and expand your Discord",
   "Footer_Description2": "bots to reach more audiences.",
   "Footer_Copyright": "All rights reserved.",
   "Footer_Sponsor": "We grow our strength from ❤️ {sponsorName}",
-  "Footer_OtherProjects" : "Other Projects",
-
+  "Footer_OtherProjects": "Other Projects",
   "DidYouKnow": "Did You Know?",
   "vCodeswas": "vCodes was originally a code sharing server.",
   "MustLoggedIn": "You must be logged in for this action.",
-
   "SortType_votes": "Votes",
   "SortType_servers": "ServerCount",
   "SortType_latest": "Latest",
