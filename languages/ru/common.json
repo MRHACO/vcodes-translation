@@ -50,6 +50,7 @@
   "Developers": "Разработчики",
   "JoinDiscord": "Присоединяйтесь к Раздору",
   "Invites": "Даветлер",
+  "Servers": "Серверы",
   "Visitors": "Посетители",
 
   "Bot_Verified": "Проверенный Бот",
@@ -73,7 +74,8 @@
   "Footer_Description1": "Добавляйте и расширяйте свой Дискорд",
   "Footer_Description2": "боты для охвата большего числа аудиторий.",
   "Footer_Copyright": "Все права защищены.",
-  "Footer_Sponsor": "Мы черпаем нашу силу из ❤️ Nytern",
+  "Footer_Sponsor": "Мы черпаем нашу силу из ❤️ {sponsorName}",
+  "Footer_OtherProjects": "Другие проекты",
 
   "DidYouKnow": "Ты Знал?",
   "vCodeswas": "VCodes изначально был сервером обмена кодами.",

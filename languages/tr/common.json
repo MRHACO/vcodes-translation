@@ -2,9 +2,9 @@
   "Add": "Ekle",
   "Remove": "Kaldır",
   "Delete": "Sil",
+  "Decline": "Reddet",
   "Cancel": "İptal",
   "Edit": "Düzenle",
-  "Decline": "Reddet",
   "AddBot": "Bot Ekle",
   "AdminPanel": "Admin Panel",
   "ManageAdvertise": "Reklam Yöneticisi",
@@ -49,6 +49,7 @@
   "Sponsors": "Destekçiler",
   "Developers": "Geliştiriciler İçin",
   "JoinDiscord": "Discord'umuza Katıl",
+  "Servers": "Sunucular",
   "Invites": "Davetler",
   "Visitors": "Ziyaretçiler",
 
@@ -73,7 +74,8 @@
   "Footer_Description1": "Botunuzu ekleyin ve",
   "Footer_Description2": "daha fazla kitleye ulaşın.",
   "Footer_Copyright": "Tüm Hakları Saklıdır.",
-  "Footer_Sponsor": "Gücümüzü Nytern'den alıyoruz ❤️",
+  "Footer_Sponsor": "Gücümüze {sponsorName} ile güç katıyoruz ❤️",
+  "Footer_OtherProjects" : "Diğer Projelerimiz",
 
   "DidYouKnow": "Biliyor muydun?",
   "vCodeswas": "vCodes bir kod paylaşım sunucusu olarak kurulmuştu.",

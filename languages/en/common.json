@@ -50,6 +50,7 @@
   "Developers": "Developers",
   "JoinDiscord": "Join Discord",
   "Invites": "Invites",
+  "Servers": "Servers",
   "Visitors": "Visitors",
 
   "Bot_Verified": "Verified Bot",
@@ -73,7 +74,8 @@
   "Footer_Description1": "Add and expand your Discord",
   "Footer_Description2": "bots to reach more audiences.",
   "Footer_Copyright": "All rights reserved.",
-  "Footer_Sponsor": "We grow our strength from ❤️ Nytern",
+  "Footer_Sponsor": "We grow our strength from ❤️ {sponsorName}",
+  "Footer_OtherProjects" : "Other Projects",
 
   "DidYouKnow": "Did You Know?",
   "vCodeswas": "vCodes was originally a code sharing server.",

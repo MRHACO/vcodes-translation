@@ -50,6 +50,7 @@
   "Developers": "Developeurs",
   "JoinDiscord": "Rejoindre Le Discord",
   "Invites": "Invitations",
+  "Servers": "Communautés",
   "Visitors": "Visiteurs",
 
   "Bot_Verified": "Bot Vérifié",
@@ -73,7 +74,8 @@
   "Footer_Description1": "Ajoute et fait grossir tes",
   "Footer_Description2": "bots Discord pour atteindre une plus grande audiance.",
   "Footer_Copyright": "Tous droits réservés.",
-  "Footer_Sponsor": "Nous sommes plus fort grâce à ❤️ Nytern",
+  "Footer_Sponsor": "Nous sommes plus fort grâce à ❤️ {sponsorName}",
+  "Footer_OtherProjects": "Autres Projets",
 
   "DidYouKnow": "Savais tu?",
   "vCodeswas": "vCodes était originalement un endroit pour partager du code.",

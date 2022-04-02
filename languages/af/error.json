@@ -1,10 +1,16 @@
 {
     "Error_APInotWorking": "API werk nie vir nou nie, probeer later weer. Jy kan {{discord}} vir meer inligting",
-    "Text_404_1":"Ons kon nie die bladsy vind waarna u gesoek het nie.",
-    "Text_404_2":"Ons is seker dit is hier iewers.",
-    "Text_403":"Jy het nie toestemming om toegang tot hierdie bladsy te verkry nie.",
-    "Text_401":"Jy moet ingeteken wees om toegang tot hierdie bladsy te verkry.",
-    "Text_500_1":"Iets het verkeerd gegaan, probeer later weer.",
-    "Text_500_2":"Ons is seker dit sal goed wees.",
-    "Text_501":"Adblock opgespoor!"
+    "400": "The request is syntax broken or impossible to fulfill.",
+    "401": "You do not have permission for this page.",
+    "402": "Purchase required for this page.",
+    "403": "The request does not specify the filename, or the directory or file does not have permission to allow pages to be viewed from the web.",
+    "404": "We couldn't find the page you were looking for.",
+    "405": "This method is invalid.",
+    "500": "An error occurred, again later.",
+    "502": "Bad gateway.",
+    "504": "Gateway timed out.",
+    "adblock": "Adblock detected, please close the adblock!",
+
+    "go_back": "Go Back",
+    "go_back_description": "Back to the page you were redirected to here"
 }

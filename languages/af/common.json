@@ -49,6 +49,7 @@
   "Developers": "Ontwikkelaars",
   "JoinDiscord": "Sluit aan Discord",
   "Invites": "Nooi",
+  "Servers": "Bedieners",
   "Visitors": "Besoekers",
 
   "Bot_Verified": "Geverifieer Bot",
@@ -72,7 +73,8 @@
   "Footer_Description1": "Voeg by en brei jou discord uit",
   "Footer_Description2": "bots om meer gehore te bereik.",
   "Footer_Copyright": "Alle regte voorbehou.",
-  "Footer_Sponsor": "Ons is krag van ❤️ Nytern",
+  "Footer_Sponsor": "Ons is krag van ❤️ {sponsorName}",
+  "Footer_OtherProjects": "Ander Projekte",
 
   "DidYouKnow": "Het jy geweet?",
   "vCodeswas": "vCodes was oorspronklik 'n kodedelingsbediener.",

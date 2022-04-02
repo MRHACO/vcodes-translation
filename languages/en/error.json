@@ -1,10 +1,16 @@
 {
     "Error_APInotWorking": "API isn't working for now, please try again later. You can {{discord}} for more information",
-    "Text_404_1":"We could not find the page you were looking for.",
-    "Text_404_2":"We're sure it's in here somewhere.",
-    "Text_403":"You don't have permission to access this page.",
-    "Text_401":"You must be logged in to access this page.",
-    "Text_500_1":"Something went wrong, please try again later.",
-    "Text_500_2":"We're sure it will be fine.",
-    "Text_501":"Adblock has been detected!"
+    "400": "The request is syntax broken or impossible to fulfill.",
+    "401": "You do not have permission for this page.",
+    "402": "Purchase required for this page.",
+    "403": "The request does not specify the filename, or the directory or file does not have permission to allow pages to be viewed from the web.",
+    "404": "We couldn't find the page you were looking for.",
+    "405": "This method is invalid.",
+    "500": "An error occurred, again later.",
+    "502": "Bad gateway.",
+    "504": "Gateway timed out.",
+    "adblock": "Adblock detected, please close the adblock!",
+
+    "go_back": "Go Back",
+    "go_back_description": "Back to the page you were redirected to here"
 }

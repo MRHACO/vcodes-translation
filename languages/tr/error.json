@@ -1,10 +1,16 @@
 {
-  "Error_APInotWorking": "API şu an çalışmıyor. {{discord}} daha fazla bilgi edinebilirsin!",
-  "Text_404_1": "We could not find the page you were looking for.",
-  "Text_404_2": "We sure it's in here somewhere.",
-  "Text_403": "You dont have permission to access this page.",
-  "Text_401": "You must be logged in to access this page.",
-  "Text_500_1": "Something went wrong, try again later.",
-  "Text_500_2": "We're sure it will be fine.",
-  "Text_501": "Adblock detected!"
+  "Error_APInotWorking": "API yanıt vermiyor. {{discord}} üzerinden bilgi alabilirsiniz.",
+  "400": "İsteğin sözdizimi bozuk veya yerine getirilmesi imkansız.",
+  "401": "Bu sayfa için izniniz bulunmuyor.",
+  "402": "Bu sayfa için satın alım zorunlu.",
+  "403": "İstek dosya adını belirtmiyor veya dizin veya dosya, sayfaların web'den görüntülenmesine izin veren izne sahip değil.",
+  "404": "Aradığınız sayfayı bulamadık.",
+  "405": "Bu yöntem geçersiz.",
+  "500": "Bir hata oluştu, daha sonra tekrar deneyin.",
+  "502": "Geçit bozulmuş gibi görünüyor.",
+  "504": "Geçit zaman aşımına uğradı.",
+  "adblock": "Reklam engelleyici tespit edildi, lütfen engelleyici kapatın.",
+
+  "go_back": "Geri dön",
+  "go_back_description": "Buraya yönlendirildiğin sayfaya geri dön."
 }
