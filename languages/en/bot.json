@@ -11,12 +11,10 @@
   "Widgets_Text_CopyToClipboard": "Copy",
   "Widgets_Text_CopiedToClipboard": "Copied to Clipboard",
   "Widgets_Text_WidgetCopiedToClipboard": "{{id}} widget copied to clipboard.",
-
   "Ratings_Title": "Ratings & Review",
   "Ratings_Text_Reviews": "Reviews",
   "Ratings_Text_PostReview": "Post Review",
   "Ratings_Text_MustLoggedInToLike": "You must be logged in to like this review",
-
   "View_Title_Details": "Details",
   "View_Title_Authors": "Authors",
   "View_Text_DailyVotes": "Daily Votes",
@@ -24,7 +22,6 @@
   "View_Text_SyncData": "Sync Data",
   "View_Text_SyncRoles": "Sync Roles",
   "View_Text_Report": "Report",
-
   "Add_Text_AddYourBot": "Add Your Discord Bot!",
   "Add_Text_AddYourBotDesc": "Add your discord bot to the system in 5 steps.",
   "Add_Text_EnterYourBotID": "Enter your Bot ID",
@@ -44,13 +41,11 @@
   "Add_Text_EnterYourShortDescription": "Make the short description that fits your bot perfectly.",
   "Add_Text_EnterYourLongDescription": "Enter your bot's detailed description.",
   "Add_Text_Success": "Your bot has been added successfully to the system.",
-
   "Add_Steps_FindBot": "Find Bot",
   "Add_Steps_Overview": "Overview",
   "Add_Steps_Connections": "Connections",
   "Add_Steps_Descriptions": "Detailed Information",
   "Add_Steps_Finished": "Finished!",
-
   "Add_Error_InvalidPrefix": "You must be a enter a prefix.",
   "Add_Error_NoBotTags": "You must select a bot tag.",
   "Add_Error_NoInviteLink": "You must enter an invite url.",
@@ -64,7 +59,6 @@
   "Add_Error_CoownerCantAddYourself": "You cannot add yourself to other CO-Owners.",
   "Add_Error_CoownerUnknownUser": "You cannot add yourself to other CO-Owners.",
   "Add_Error_CoownerMax3": "You can add up to 3 CO-Owners.",
-
   "Bots_ListingSettingsDesc": "You can set listing settings.",
   "Bots_Sort": "Sort",
   "Bots_SortDescription": "It is the sorting format of bots.",
